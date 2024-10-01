@@ -1,2 +1,3 @@
-# about-me
-This is a short description about me
+# About-Me
+
+A demonstration of About Me page deployed using GitHub pages.
